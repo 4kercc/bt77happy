@@ -2,19 +2,19 @@
 ```Bash
 curl -sSO https://raw.githubusercontent.com/4kercc/bt77happy/main/install/install_panel.sh && bash install_panel.sh
 中转下载
-curl -sSO https://ghproxy.com/https://raw.githubusercontent.com/Jiaocha/bt77happy/main/install/install_panel.sh && bash install_panel.sh
+curl -sSO https://ghproxy.com/https://raw.githubusercontent.com/4kercc/bt77happy/main/install/install_panel.sh && bash install_panel.sh
 ```
 
  宝塔7.7原版一键开心脚本
 ```Bash
-curl -sSO https://raw.githubusercontent.com/Jiaocha/bt77happy/main/bthappy/one_key_happy.sh && bash one_key_happy.sh
+curl -sSO https://raw.githubusercontent.com/4kercc/bt77happy/main/bthappy/one_key_happy.sh && bash one_key_happy.sh
 中转下载
-curl -sSO https://ghproxy.com/https://raw.githubusercontent.com/Jiaocha/bt77happy/main/bthappy/one_key_happy.sh && bash one_key_happy.sh
+curl -sSO https://ghproxy.com/https://raw.githubusercontent.com/4kercc/bt77happy/main/bthappy/one_key_happy.sh && bash one_key_happy.sh
 ```
 
  降级
 ```Bash
-wget https://raw.githubusercontent.com/Jiaocha/bt77happy/main/install/src/LinuxPanel-7.7.0.zip
+wget https://raw.githubusercontent.com/4kercc/bt77happy/main/install/src/LinuxPanel-7.7.0.zip
 unzip LinuxPanel-*
 cd panel
 bash update.sh
