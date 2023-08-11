@@ -1,6 +1,6 @@
  宝塔面板7.7原版安装
 ```Bash
-curl -sSO https://raw.githubusercontent.com/Jiaocha/bt77happy/main/install/install_panel.sh && bash install_panel.sh
+curl -sSO https://raw.githubusercontent.com/4kercc/bt77happy/main/install/install_panel.sh && bash install_panel.sh
 中转下载
 curl -sSO https://ghproxy.com/https://raw.githubusercontent.com/Jiaocha/bt77happy/main/install/install_panel.sh && bash install_panel.sh
 ```
